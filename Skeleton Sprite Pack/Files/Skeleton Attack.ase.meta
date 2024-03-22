@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 4e5681d0f03d5401ebb4e9a69ed3bc9c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Skeleton Attack_Frame_0
+    originalName: 
+    pivot: {x: 0.8409091, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 4
+      width: 22
+      height: 32
+    spriteID: 48fdedb09c10f674893c86de3e290a8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 4}
+  - name: Skeleton Attack_Frame_1
+    originalName: 
+    pivot: {x: 0.8409091, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 4
+      width: 22
+      height: 32
+    spriteID: 6623153889f5c1d46a86048a3ccc7a4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 4}
+  - name: Skeleton Attack_Frame_2
+    originalName: 
+    pivot: {x: 0.8809524, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 78
+      width: 21
+      height: 32
+    spriteID: 52cf97d53b0f84c4c9f75fbd3fcc35a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 78}
+  - name: Skeleton Attack_Frame_3
+    originalName: 
+    pivot: {x: 0.868421, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 78
+      width: 19
+      height: 32
+    spriteID: 2b7fb2709a340fd47ab3f11c09249cbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 78}
+  - name: Skeleton Attack_Frame_4
+    originalName: 
+    pivot: {x: 0.9722222, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 78
+      width: 18
+      height: 37
+    spriteID: 9d11a435530f63a45b2f42b974c76c1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 78}
+  - name: Skeleton Attack_Frame_5
+    originalName: 
+    pivot: {x: 0.9761905, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 4
+      width: 21
+      height: 36
+    spriteID: 526ab2f2755cd7a4e9d4abbb07e40abf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 4}
+  - name: Skeleton Attack_Frame_6
+    originalName: 
+    pivot: {x: 0.97727275, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 4
+      width: 22
+      height: 33
+    spriteID: 7567af6ed277b82429283aa01129a56b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 4}
+  - name: Skeleton Attack_Frame_7
+    originalName: 
+    pivot: {x: 0.4625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 40
+      height: 36
+    spriteID: ea5f4254381fb66429863a8c38b7f8f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Skeleton Attack_Frame_8
+    originalName: 
+    pivot: {x: 0.37096775, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 78
+      width: 31
+      height: 19
+    spriteID: 7d6f268086c76dc478b9f2ce5b6cbfeb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 78}
+  - name: Skeleton Attack_Frame_9
+    originalName: 
+    pivot: {x: 0.421875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 48
+      width: 32
+      height: 21
+    spriteID: 16b4f7a9df9b61842ac6a52fc3e5666f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 48}
+  - name: Skeleton Attack_Frame_10
+    originalName: 
+    pivot: {x: 0.421875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 48
+      width: 32
+      height: 22
+    spriteID: 8b39a9e98dd1c064cb9ebbda554594da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 48}
+  - name: Skeleton Attack_Frame_11
+    originalName: 
+    pivot: {x: 0.39062503, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 48
+      width: 32
+      height: 22
+    spriteID: ef39b86a40e76b04fb4dfcac354b4dce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 48}
+  - name: Skeleton Attack_Frame_12
+    originalName: 
+    pivot: {x: 0.37878788, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 4
+      width: 33
+      height: 22
+    spriteID: 5468aeaff5932aa42b0326c4881da8d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 4}
+  - name: Skeleton Attack_Frame_13
+    originalName: 
+    pivot: {x: 0.45312497, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 48
+      width: 32
+      height: 22
+    spriteID: 15a8dbc2442d8fd498ece12ba72b1470
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 48}
+  - name: Skeleton Attack_Frame_14
+    originalName: 
+    pivot: {x: 0.5740741, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 4
+      width: 27
+      height: 30
+    spriteID: dc52216fa7f139f4a9c26ec30af651c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 4}
+  - name: Skeleton Attack_Frame_15
+    originalName: 
+    pivot: {x: 0.92857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 63
+      y: 78
+      width: 21
+      height: 32
+    spriteID: 7a169f0aad60d7546818b0799fb91611
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 63, y: 78}
+  - name: Skeleton Attack_Frame_16
+    originalName: 
+    pivot: {x: 0.8809524, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 92
+      y: 78
+      width: 21
+      height: 32
+    spriteID: 08dce9dbbae582140ba6472c8d2adcc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 92, y: 78}
+  - name: Skeleton Attack_Frame_17
+    originalName: 
+    pivot: {x: 0.8409091, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 78
+      width: 22
+      height: 32
+    spriteID: c1f6be55bf0d2f647805f9046e06d00f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 78}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -629371639
+    name: Skeleton Attack
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Skeleton Attack_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 22
+        height: 32
+      spriteId: 48fdedb09c10f674893c86de3e290a8c
+    - name: Skeleton Attack_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 3
+        y: 0
+        width: 22
+        height: 32
+      spriteId: 6623153889f5c1d46a86048a3ccc7a4d
+    - name: Skeleton Attack_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 3
+        y: 0
+        width: 21
+        height: 32
+      spriteId: 52cf97d53b0f84c4c9f75fbd3fcc35a0
+    - name: Skeleton Attack_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 5
+        y: 0
+        width: 19
+        height: 32
+      spriteId: 2b7fb2709a340fd47ab3f11c09249cbc
+    - name: Skeleton Attack_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 4
+        y: 0
+        width: 18
+        height: 37
+      spriteId: 9d11a435530f63a45b2f42b974c76c1b
+    - name: Skeleton Attack_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 1
+        y: 0
+        width: 21
+        height: 36
+      spriteId: 526ab2f2755cd7a4e9d4abbb07e40abf
+    - name: Skeleton Attack_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 22
+        height: 33
+      spriteId: 7567af6ed277b82429283aa01129a56b
+    - name: Skeleton Attack_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 3
+        y: 0
+        width: 40
+        height: 36
+      spriteId: ea5f4254381fb66429863a8c38b7f8f7
+    - name: Skeleton Attack_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 0
+        width: 31
+        height: 19
+      spriteId: 7d6f268086c76dc478b9f2ce5b6cbfeb
+    - name: Skeleton Attack_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 8
+        y: 0
+        width: 32
+        height: 21
+      spriteId: 16b4f7a9df9b61842ac6a52fc3e5666f
+    - name: Skeleton Attack_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 8
+        y: 0
+        width: 32
+        height: 22
+      spriteId: 8b39a9e98dd1c064cb9ebbda554594da
+    - name: Skeleton Attack_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 0
+        width: 32
+        height: 22
+      spriteId: ef39b86a40e76b04fb4dfcac354b4dce
+    - name: Skeleton Attack_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 0
+        width: 33
+        height: 22
+      spriteId: 5468aeaff5932aa42b0326c4881da8d7
+    - name: Skeleton Attack_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 7
+        y: 0
+        width: 32
+        height: 22
+      spriteId: 15a8dbc2442d8fd498ece12ba72b1470
+    - name: Skeleton Attack_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 6
+        y: 0
+        width: 27
+        height: 30
+      spriteId: dc52216fa7f139f4a9c26ec30af651c0
+    - name: Skeleton Attack_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 2
+        y: 0
+        width: 21
+        height: 32
+      spriteId: 7a169f0aad60d7546818b0799fb91611
+    - name: Skeleton Attack_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 3
+        y: 0
+        width: 21
+        height: 32
+      spriteId: 08dce9dbbae582140ba6472c8d2adcc7
+    - name: Skeleton Attack_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 3
+        y: 0
+        width: 22
+        height: 32
+      spriteId: c1f6be55bf0d2f647805f9046e06d00f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 43, y: 37}
